@@ -22,7 +22,6 @@ Magnolia
 Nerissa
 Ophelia
 Paloma
-Romilly
 Snow
 Tessa
 Teresa
@@ -33,7 +32,6 @@ Winona
 Xiomara
 Yara
 Zelda
-Brigid
 Ciara
 Ada
 Keira
@@ -68,7 +66,6 @@ Dixie
 Hazel
 Lulu
 Poppy
-Sadie
 Wren
 Willow
 River
