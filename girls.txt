@@ -62,7 +62,6 @@ Daisy
 Dixie
 Lulu
 Wren
-Willow
 River
 Chloe
 Ayala
@@ -70,14 +69,12 @@ Emi
 Nora
 Astrid
 Marni
-Luna
 Cleo
 Queenie
 Cicely
 Beryl
 Effie
 Electra
-Virginia
 Pixie
 Adeline
 Christa
