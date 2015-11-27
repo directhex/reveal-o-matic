@@ -18,7 +18,6 @@ Kiernan
 Killian 
 Iain
 Niall 
-Quinn 
 Rory 
 Seamus 
 Shane 
@@ -41,7 +40,6 @@ Forrest
 Jasper
 Heath
 Hector
-Atticus
 Aspen
 Otto
 Devon
@@ -51,7 +49,6 @@ Alberto
 Cairo
 Colton
 Huxley
-Lawson
 Lochlan
 Marshall
 Miller

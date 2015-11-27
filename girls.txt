@@ -63,14 +63,12 @@ Dixie
 Lulu
 Wren
 River
-Chloe
 Ayala
 Emi
 Nora
 Astrid
 Marni
 Cleo
-Queenie
 Cicely
 Beryl
 Effie
@@ -78,7 +76,6 @@ Electra
 Pixie
 Adeline
 Christa
-Dottie
 Khaleesi
 London
 Mallory
