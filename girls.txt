@@ -60,9 +60,7 @@ Charlotte
 Aviva
 Daisy
 Dixie
-Hazel
 Lulu
-Poppy
 Wren
 Willow
 River
@@ -71,7 +69,6 @@ Ayala
 Emi
 Nora
 Astrid
-Eden
 Marni
 Luna
 Cleo
