@@ -37,9 +37,7 @@ Kai
 Forrest
 Jasper
 Heath
-Hector
 Aspen
-Otto
 Devon
 Nelson
 Kit
@@ -50,7 +48,6 @@ Huxley
 Lochlan
 Marshall
 Miller
-Percy
 Stan
 Niles
 Monroe

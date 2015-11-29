@@ -43,7 +43,6 @@ Maeve
 Orla
 Siobhan
 Tali
-Aviva 
 Vivienne
 Fiorella
 Jemima
@@ -51,7 +50,6 @@ Ione
 Rue
 Emma
 Olivia
-Sophia
 Isabella
 Ava
 Mia
@@ -77,7 +75,6 @@ Christa
 Khaleesi
 London
 Mallory
-Safiyaa
 Chanel
 Angelique
 Presley
