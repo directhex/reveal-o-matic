@@ -11,13 +11,11 @@ Evangeline
 Esmeralda
 Freya
 Georgia
-Hermione
 India
 Ruby
 Amethyst
 Jezebel
 Kenya
-Lorelei
 Nerissa
 Paloma
 Snow
@@ -29,7 +27,6 @@ Garnet
 Winona
 Xiomara
 Yara
-Zelda
 Ciara
 Ada
 Keira
