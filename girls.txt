@@ -1,12 +1,10 @@
 Anais
-Liara
 Brienne
 Charity
 Cassandra
 Faith
 Hope
 Delphine
-Angelina
 Evangeline
 Esmeralda
 Freya
@@ -24,7 +22,6 @@ Teresa
 Ursula
 Viola
 Garnet
-Winona
 Xiomara
 Yara
 Ciara

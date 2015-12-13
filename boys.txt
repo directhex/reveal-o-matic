@@ -21,7 +21,6 @@ Rory
 Seamus 
 Shane 
 Sloan
-Gary
 Grayson
 Thelonius
 Noah
@@ -34,7 +33,6 @@ Reynold
 Kai
 Jasper
 Heath
-Aspen
 Devon
 Nelson
 Kit
@@ -53,4 +51,3 @@ Boston
 Darwin
 Lucian
 Devon
-Herbert
