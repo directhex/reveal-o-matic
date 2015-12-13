@@ -1,6 +1,5 @@
 Raphael
 Marcel
-Jean-Luc
 Pascal
 Pierre
 Louis
@@ -39,7 +38,6 @@ Kit
 Alberto
 Cairo
 Colton
-Marshall
 Miller
 Stan
 Monroe
