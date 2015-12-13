@@ -40,7 +40,6 @@ Cairo
 Colton
 Miller
 Stan
-Monroe
 Julien
 Farrel
 Benicio

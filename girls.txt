@@ -23,7 +23,6 @@ Ursula
 Viola
 Garnet
 Xiomara
-Yara
 Ciara
 Ada
 Keira
@@ -49,7 +48,6 @@ Madison
 Aviva
 Daisy
 Dixie
-Lulu
 Wren
 River
 Ayala
@@ -58,7 +56,6 @@ Nora
 Astrid
 Marni
 Cleo
-Cicely
 Effie
 Electra
 Adeline
