@@ -23,7 +23,6 @@ Ursula
 Viola
 Garnet
 Xiomara
-Ciara
 Ada
 Keira
 Eileen
@@ -31,7 +30,6 @@ Helen
 Pearl
 Maeve
 Orla
-Siobhan
 Tali
 Vivienne
 Fiorella
@@ -46,14 +44,12 @@ Madison
 Aviva
 Daisy
 Dixie
-Wren
 River
 Ayala
 Emi
 Astrid
 Marni
 Cleo
-Effie
 Electra
 Christa
 Khaleesi
@@ -61,5 +57,4 @@ London
 Mallory
 Chanel
 Angelique
-Presley
 Hetty

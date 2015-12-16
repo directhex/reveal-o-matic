@@ -5,10 +5,8 @@ Pierre
 Louis
 Daniel
 Brady
-Connor 
 Cormac 
 Donovan  
-Finn 
 Cory
 Finnley 
 Finnegan
@@ -29,13 +27,10 @@ Ethan
 Michael
 Reynold
 Kai
-Jasper
 Heath
-Devon
 Nelson
 Kit
 Alberto
-Colton
 Miller
 Stan
 Julien
@@ -45,4 +40,3 @@ Ajay
 Boston
 Darwin
 Lucian
-Devon
