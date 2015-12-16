@@ -29,7 +29,6 @@ Keira
 Eileen
 Helen
 Pearl
-Finola
 Maeve
 Orla
 Siobhan
@@ -39,7 +38,6 @@ Fiorella
 Jemima
 Ione
 Rue
-Emma
 Olivia
 Isabella
 Ava
@@ -57,7 +55,6 @@ Marni
 Cleo
 Effie
 Electra
-Adeline
 Christa
 Khaleesi
 London
