@@ -1,4 +1,3 @@
-Raphael
 Marcel
 Pascal
 Pierre
@@ -6,10 +5,8 @@ Louis
 Daniel
 Brady
 Cormac 
-Donovan  
 Cory
 Finnley 
-Finnegan
 Kiernan 
 Killian 
 Iain
@@ -18,7 +15,6 @@ Rory
 Seamus 
 Shane 
 Sloan
-Grayson
 Thelonius
 Noah
 Mason
