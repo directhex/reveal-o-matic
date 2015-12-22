@@ -1,6 +1,5 @@
 Marcel
 Pascal
-Pierre
 Louis
 Daniel
 Brady
@@ -8,13 +7,11 @@ Cormac
 Cory
 Finnley 
 Kiernan 
-Killian 
 Iain
 Niall 
 Rory 
 Seamus 
 Shane 
-Sloan
 Thelonius
 Noah
 Mason
@@ -26,10 +23,7 @@ Kai
 Heath
 Nelson
 Kit
-Alberto
-Miller
 Stan
-Julien
 Farrel
 Benicio
 Ajay

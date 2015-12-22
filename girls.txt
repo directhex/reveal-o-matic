@@ -1,12 +1,8 @@
-Anais
 Brienne
 Charity
-Cassandra
 Faith
 Hope
-Delphine
 Evangeline
-Esmeralda
 Freya
 India
 Ruby
@@ -18,7 +14,6 @@ Paloma
 Snow
 Tessa
 Teresa
-Ursula
 Viola
 Garnet
 Xiomara
@@ -28,14 +23,12 @@ Eileen
 Pearl
 Tali
 Vivienne
-Fiorella
 Ione
 Rue
 Olivia
 Ava
 Mia
 Madison
-Daisy
 Dixie
 River
 Ayala
@@ -43,7 +36,6 @@ Marni
 Cleo
 Electra
 Christa
-Khaleesi
 Mallory
 Chanel
 Angelique
