@@ -4,17 +4,13 @@ Louis
 Daniel
 Brady
 Cormac 
-Cory
 Finnley 
 Kiernan 
 Iain
 Niall 
-Rory 
 Seamus 
 Shane 
 Thelonius
-Noah
-Mason
 William
 Ethan
 Michael
@@ -23,7 +19,6 @@ Kai
 Heath
 Nelson
 Kit
-Stan
 Farrel
 Benicio
 Ajay
